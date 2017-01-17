@@ -34,7 +34,7 @@ public class Driver {
             populationSize= input.nextInt();
             maxGenerations = input.nextInt();
             crossProb = input.nextDouble();
-            mutatProb = input.nextDouble();;
+            mutatProb = input.nextDouble();
         } catch (FileNotFoundException ex) {
             System.err.println("File not found!");
             System.exit(1);
