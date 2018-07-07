@@ -6,13 +6,3 @@
 100
 0.6
 0.015
-
-
-number of items
-value of each item (separated by space)
-weight of each item (separated by space)
-knapsack maximum size
-population size
-number of generations
-crossover probability
-mutation probability
